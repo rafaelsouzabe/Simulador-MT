@@ -1,0 +1,2 @@
+# Simulador-MT
+Este trabalho consiste em desenvolver em python um simulador para a Máquina de Turing, dora- vante MT, conforme as especificações que seguem. A sintaxe dos comandos da MT foi inspirada no  formado adotado no simulador disponível em http://morphett.info/turing/turing.html, acres- centada da noção de bloco de comandos para permitir a implementação de componentes modulares  na programação.
